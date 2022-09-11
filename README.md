@@ -1,4 +1,4 @@
-# hide-zip-to-picture
+# zip-hide-picture
 使用Lua实现图种 将压缩包藏进图片
 # 使用教程
 修改源代码 1-3行文件路径
